@@ -12,6 +12,10 @@ ul {
     list-style: none;
 }
 
+body {
+    background: gray;
+}
+
 ::-webkit-scrollbar {
     width: 10px;
     background: linear-gradient(55deg,red,black);
